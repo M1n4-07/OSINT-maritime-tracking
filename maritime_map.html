@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9faf4c2c4cd199b54601304c54f3d965 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9faf4c2c4cd199b54601304c54f3d965" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9faf4c2c4cd199b54601304c54f3d965 = L.map(
+                "map_9faf4c2c4cd199b54601304c54f3d965",
+                {
+                    center: [10.0, 110.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a4d83f15d21d232ad4b553dba43586f1 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a4d83f15d21d232ad4b553dba43586f1.addTo(map_9faf4c2c4cd199b54601304c54f3d965);
+        
+    
+            var marker_d94f78f5f50e74d617558aceb77f3ce6 = L.marker(
+                [1.2, 103.8],
+                {
+}
+            ).addTo(map_9faf4c2c4cd199b54601304c54f3d965);
+        
+    
+        var popup_ffa6a6c7db0f52ade8c61ddcbe6b0611 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_101b6360bec7d03b9cae67d0f7cb51bc = $(`<div id="html_101b6360bec7d03b9cae67d0f7cb51bc" style="width: 100.0%; height: 100.0%;">Cargo Ship A</div>`)[0];
+                popup_ffa6a6c7db0f52ade8c61ddcbe6b0611.setContent(html_101b6360bec7d03b9cae67d0f7cb51bc);
+            
+        
+
+        marker_d94f78f5f50e74d617558aceb77f3ce6.bindPopup(popup_ffa6a6c7db0f52ade8c61ddcbe6b0611)
+        ;
+
+        
+    
+    
+            var marker_1b90dba9eb5e8a5ebd2eaf3fb402d1b1 = L.marker(
+                [12.5, 121.0],
+                {
+}
+            ).addTo(map_9faf4c2c4cd199b54601304c54f3d965);
+        
+    
+        var popup_a792c0bf366252fe1ec209df1db2bb62 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9b53a2d7469a09e5765486260fb9a929 = $(`<div id="html_9b53a2d7469a09e5765486260fb9a929" style="width: 100.0%; height: 100.0%;">Oil Tanker B</div>`)[0];
+                popup_a792c0bf366252fe1ec209df1db2bb62.setContent(html_9b53a2d7469a09e5765486260fb9a929);
+            
+        
+
+        marker_1b90dba9eb5e8a5ebd2eaf3fb402d1b1.bindPopup(popup_a792c0bf366252fe1ec209df1db2bb62)
+        ;
+
+        
+    
+    
+            var marker_7bd83ad9dbcc181adba616fccbe47be3 = L.marker(
+                [22.8, 114.2],
+                {
+}
+            ).addTo(map_9faf4c2c4cd199b54601304c54f3d965);
+        
+    
+        var popup_6d36fd3202baa55ed4d8f2c3b28073ad = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2b08ae6b847c98e0e0b6fea3f6202b54 = $(`<div id="html_2b08ae6b847c98e0e0b6fea3f6202b54" style="width: 100.0%; height: 100.0%;">Container Ship C</div>`)[0];
+                popup_6d36fd3202baa55ed4d8f2c3b28073ad.setContent(html_2b08ae6b847c98e0e0b6fea3f6202b54);
+            
+        
+
+        marker_7bd83ad9dbcc181adba616fccbe47be3.bindPopup(popup_6d36fd3202baa55ed4d8f2c3b28073ad)
+        ;
+
+        
+    
+</script>
+</html>
