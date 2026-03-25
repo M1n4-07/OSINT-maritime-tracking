@@ -1,5 +1,8 @@
 # OSINT-maritime-tracking
 OSINT-based maritime traffic monitoring using open data and Python to analyze shipping routes, geopolitical risk, and supply chain disruptions.
+
+![Maritime Map](map_preview.png)
+
 # OSINT Maritime Tracking
 
 This project explores how Open Source Intelligence (OSINT) can be used to monitor maritime traffic and visualize shipping routes.
