@@ -81,44 +81,89 @@ This section lists useful open-source intelligence (OSINT) tools for maritime tr
 ## Strategic Maritime Chokepoints
 
 This repository focuses on maritime monitoring across key global chokepoints where trade flows are concentrated and geopolitical risks are highest.
+## 🌍 Strategic Maritime Chokepoints
 
-Strategic Maritime Chokepoints of the World
+Strategic maritime chokepoints are narrow sea routes where large volumes of global trade and energy shipments pass. Monitoring these locations is critical for geopolitical risk analysis, maritime security, and supply chain intelligence.
 
-·Middle East / Global Energy Routes
-Strait of Hormuz – El chokepoint energético más importante del mundo; conecta el Golfo Pérsico con el océano Índico.
-Bab el-Mandeb – Une el Mar Rojo con el Golfo de Adén; clave para el comercio entre Europa y Asia.
-Suez Canal – Canal artificial que conecta el Mediterráneo con el Mar Rojo.
-Europe / Mediterranean
-Strait of Gibraltar – Paso entre el Mediterráneo y el Atlántico.
-Bosporus – Conecta el Mar Negro con el Mar de Mármara.
-Dardanelles – Conecta el Mar de Mármara con el Mar Egeo.
-Turkish Straits – Sistema formado por Bosporus y Dardanelles.
-·Northern Europe / Baltic
-Øresund – Uno de los estrechos que conectan el Mar Báltico con el Mar del Norte.
-Great Belt – Principal ruta marítima hacia el Báltico.
-Little Belt – Otro de los estrechos daneses.
-Danish Straits – Sistema que conecta el Báltico con el Mar del Norte.
-·Asia-Pacific
-Strait of Malacca – Uno de los chokepoints más transitados del mundo; conecta el océano Índico con el Pacífico.
-Singapore Strait – Extensión del Malacca, crítico para el tráfico global.
-Sunda Strait – Ruta alternativa entre el océano Índico y el mar de Java.
-Lombok Strait – Alternativa profunda para grandes petroleros.
-Makassar Strait – Ruta importante en Indonesia.
-Taiwan Strait – Punto crítico entre China continental y Taiwán.
-Luzon Strait – Conecta el Mar de Filipinas con el Mar de China Meridional.
-Torres Strait – Entre Australia y Papúa Nueva Guinea.
-·Americas
-Panama Canal – Conecta el Atlántico con el Pacífico.
-Strait of Florida – Importante ruta energética entre el Golfo de México y el Atlántico.
-Africa
-Mozambique Channel – Ruta importante entre África oriental y el océano Índico.
-Cape of Good Hope – Ruta alternativa cuando el Canal de Suez no está disponible.
-Arctic / Polar Routes
-Bering Strait – Conecta el océano Pacífico con el Ártico; clave para rutas del Northern Sea Route.
-·South America / Extreme South Routes
-Strait of Magellan – Ruta natural entre Atlántico y Pacífico.
-Drake Passage – Paso marítimo entre Sudamérica y la Antártida.
+---
 
+## Middle East & Global Energy Routes
+
+- 📍 Strait of Hormuz
+- 📍 Bab el-Mandeb
+- 📍 Suez Canal
+
+---
+
+## Europe & Mediterranean
+
+- 📍 Strait of Gibraltar
+- 📍 Bosporus Strait
+- 📍 Dardanelles Strait
+- 📍 Turkish Straits
+
+---
+
+## Northern Europe & Baltic Access
+
+- 📍 Øresund Strait
+- 📍 Great Belt
+- 📍 Little Belt
+- 📍 Danish Straits
+
+---
+
+## Asia-Pacific (World’s Busiest Trade Routes)
+
+- 📍 Strait of Malacca
+- 📍 Singapore Strait
+- 📍 Sunda Strait
+- 📍 Lombok Strait
+- 📍 Makassar Strait
+- 📍 Taiwan Strait
+- 📍 Luzon Strait
+- 📍 Torres Strait
+
+---
+
+## Africa & Indian Ocean
+
+- 📍 Mozambique Channel
+- 📍 Cape of Good Hope
+
+---
+
+## Americas
+
+- 📍 Panama Canal
+- 📍 Strait of Florida
+
+---
+
+## Arctic Routes
+
+- 📍 Bering Strait
+
+---
+
+## Southern Ocean Routes
+
+- 📍 Strait of Magellan
+- 📍 Drake Passage
+
+---
+
+## Why These Chokepoints Matter
+
+These maritime passages are critical for:
+
+- Global energy flows
+- Supply chain logistics
+- Naval strategy
+- Maritime security
+- Geopolitical risk monitoring
+
+Tracking vessel activity in these areas helps analysts detect disruptions, sanctions evasion, illegal shipping, and strategic naval movements.
 
 ## Use Cases
 
