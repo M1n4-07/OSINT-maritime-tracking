@@ -82,6 +82,44 @@ This section lists useful open-source intelligence (OSINT) tools for maritime tr
 
 This repository focuses on maritime monitoring across key global chokepoints where trade flows are concentrated and geopolitical risks are highest.
 
+Strategic Maritime Chokepoints of the World
+
+·Middle East / Global Energy Routes
+Strait of Hormuz – El chokepoint energético más importante del mundo; conecta el Golfo Pérsico con el océano Índico.
+Bab el-Mandeb – Une el Mar Rojo con el Golfo de Adén; clave para el comercio entre Europa y Asia.
+Suez Canal – Canal artificial que conecta el Mediterráneo con el Mar Rojo.
+Europe / Mediterranean
+Strait of Gibraltar – Paso entre el Mediterráneo y el Atlántico.
+Bosporus – Conecta el Mar Negro con el Mar de Mármara.
+Dardanelles – Conecta el Mar de Mármara con el Mar Egeo.
+Turkish Straits – Sistema formado por Bosporus y Dardanelles.
+·Northern Europe / Baltic
+Øresund – Uno de los estrechos que conectan el Mar Báltico con el Mar del Norte.
+Great Belt – Principal ruta marítima hacia el Báltico.
+Little Belt – Otro de los estrechos daneses.
+Danish Straits – Sistema que conecta el Báltico con el Mar del Norte.
+·Asia-Pacific
+Strait of Malacca – Uno de los chokepoints más transitados del mundo; conecta el océano Índico con el Pacífico.
+Singapore Strait – Extensión del Malacca, crítico para el tráfico global.
+Sunda Strait – Ruta alternativa entre el océano Índico y el mar de Java.
+Lombok Strait – Alternativa profunda para grandes petroleros.
+Makassar Strait – Ruta importante en Indonesia.
+Taiwan Strait – Punto crítico entre China continental y Taiwán.
+Luzon Strait – Conecta el Mar de Filipinas con el Mar de China Meridional.
+Torres Strait – Entre Australia y Papúa Nueva Guinea.
+·Americas
+Panama Canal – Conecta el Atlántico con el Pacífico.
+Strait of Florida – Importante ruta energética entre el Golfo de México y el Atlántico.
+Africa
+Mozambique Channel – Ruta importante entre África oriental y el océano Índico.
+Cape of Good Hope – Ruta alternativa cuando el Canal de Suez no está disponible.
+Arctic / Polar Routes
+Bering Strait – Conecta el océano Pacífico con el Ártico; clave para rutas del Northern Sea Route.
+·South America / Extreme South Routes
+Strait of Magellan – Ruta natural entre Atlántico y Pacífico.
+Drake Passage – Paso marítimo entre Sudamérica y la Antártida.
+
+
 ## Use Cases
 
 - Maritime security analysis
