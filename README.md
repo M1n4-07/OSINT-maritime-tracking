@@ -78,6 +78,10 @@ This section lists useful open-source intelligence (OSINT) tools for maritime tr
 
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices and maritime systems.
 
+## Strategic Maritime Chokepoints
+
+This repository focuses on maritime monitoring across key global chokepoints where trade flows are concentrated and geopolitical risks are highest.
+
 ## Use Cases
 
 - Maritime security analysis
